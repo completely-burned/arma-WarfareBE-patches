@@ -213,7 +213,7 @@ index 1835d5a..f5b96bb 100644
  
 +gosa_load_balancing_sv = 100;
 +gosa_load_balancing_hc = 150;
-+gosa_load_balancing_cl = 75;
++gosa_load_balancing_cl = 33;
 +
  //--- New Variables, use isNil to check whether it's already defined or not (MP parameters).
  
